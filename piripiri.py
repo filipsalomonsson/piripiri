@@ -9,8 +9,7 @@ import keyword
 __author__ = "Filip Salomonsson (filip@infix.se)"
 __version__ = "0.1a"
 __date__ = "2005-01-03"
-__copyright__ = "Copyright (c) 2005 Filip Salomonsson \
-liksom fan alltsa"
+__copyright__ = "Copyright (c) 2005 Filip Salomonsson"
 __license__ = "python"
 
 class Token:
